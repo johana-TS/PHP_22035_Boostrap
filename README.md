@@ -1,2 +1,2 @@
-# PHP_22035_Boostrap
-ejercicio 1 Boostrap para PHP CodoACodo
+# PHP_22035_Bootstrap
+ejercicio 1 Bootstrap para PHP CodoACodo
